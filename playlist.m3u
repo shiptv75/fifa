@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Sports",T Sports
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiJVIGNSn7deu31FGYjz9xunHzqiRtIReiQ&s" group-title="Fifa Worldcup",Fifa Worldcup
 https://cricxtv.fun/bioscope.php?file=index_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="Sports",T Sports
-https://mflixott.com/tv/dd/live.php?id=270&cid=270
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Fifa Worldcup",Fifa Worldcup
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBqUL-wmsfXvLFzXCEIFirVhYuxmJwwJByt7Y1gGSog&s" group-title="Sports",Dazn Direct
